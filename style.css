@@ -55,14 +55,14 @@ li {
 }
 
 .wrapper {
-  padding: 0 205px 0 100px;
+  padding: 0 100px 0 205px;
   position: relative;
 }
 
 .sidebar .wrapper {
   position: absolute;
   top: 0;
-  right: 0;
+  left: 0;
   font: 10px georgia, sans-serif;
   padding: 10px;
   width: 150px;
