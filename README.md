@@ -14,7 +14,7 @@ This website is constructed for CS396 Gen Methods at Northwestern.
 
 ## Instructions
 
-go to https://somber-grape-dryosaurus.glitch.me/ and check out the website itself! Alternatively, check out the preview button in the toolbar at the bottom of the page. 
+go to https://subwaytuna-a1.glitch.me/ and check out the website itself! Alternatively, check out the preview button in the toolbar at the bottom of the page. 
 
 ## Thank yous
 
